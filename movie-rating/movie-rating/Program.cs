@@ -10,7 +10,7 @@ namespace movie_rating
     {
         static void Main(string[] args)
         {
-            Tools.FindAverage();
+            Tools.BestAndWorstMovies();
 
         }
 

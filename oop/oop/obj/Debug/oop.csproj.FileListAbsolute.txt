@@ -1,0 +1,7 @@
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\oop\oop\bin\Debug\oop.exe.config
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\oop\oop\bin\Debug\oop.exe
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\oop\oop\bin\Debug\oop.pdb
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\oop\oop\obj\Debug\oop.csproj.AssemblyReference.cache
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\oop\oop\obj\Debug\oop.exe
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\oop\oop\obj\Debug\oop.pdb

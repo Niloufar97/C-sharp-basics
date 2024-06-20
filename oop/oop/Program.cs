@@ -11,5 +11,16 @@ namespace oop
         static void Main(string[] args)
         {
         }
+        public class Client
+        {
+            public string Name;
+            private int point= 0;
+
+            public int GetPoints () { return point; }
+
+            public void Buy(string product) { 
+                point++;
+            }
+        }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\Inheritance\obj\Debug\Inheritance.pdb

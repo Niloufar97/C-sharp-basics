@@ -1,0 +1,7 @@
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\ExceptionHandler\bin\Debug\ExceptionHandler.exe.config
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\ExceptionHandler\bin\Debug\ExceptionHandler.exe
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\ExceptionHandler\bin\Debug\ExceptionHandler.pdb
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\ExceptionHandler\obj\Debug\ExceptionHandler.csproj.AssemblyReference.cache
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\ExceptionHandler\obj\Debug\ExceptionHandler.csproj.CoreCompileInputs.cache
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\ExceptionHandler\obj\Debug\ExceptionHandler.exe
+C:\Users\niloo\source\repos\Niloufar97\.Net-learning\ExceptionHandler\obj\Debug\ExceptionHandler.pdb

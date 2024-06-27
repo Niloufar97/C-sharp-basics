@@ -13,7 +13,15 @@ namespace ExceptionHandler
             Console.WriteLine("please insert an index");
             int index = Convert.ToInt32(Console.ReadLine());
             int result = ExceptionManager.GetNumber(index);
-            Console.WriteLine($"The sesult is {result}");
+
+            if (ExceptionManager.WrongAnswer)
+            {
+                Console.WriteLine($"Wrong index");
+            }else
+            {
+                Console.WriteLine($"The sesult is {result}");
+
+            }
             Console.ReadKey();
         }
     }
